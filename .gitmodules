@@ -1,0 +1,8 @@
+[submodule "DWH_SEP4"]
+	path = DWH_SEP4
+	url = https://github.com/VaclavDvorakHorsens/DWH_SEP4.git
+	branch = master
+[submodule "SEP4_IoT"]
+	path = SEP4_IoT
+	url = https://github.com/rexizam/SEP4_IoT.git
+	branch = master
