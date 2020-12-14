@@ -1,16 +1,16 @@
 # SEP4 Group 2
 
-Android team:
-Grzegorz Szyszka (285054),
-Jakob Busch Hansen (285058),
-Marwan Mohamad Summakieh (285805),
-Mathias Have Hansen (274392)
+Android team:<br/>
+Grzegorz Szyszka (285054)<br/>
+Jakob Busch Hansen (285058)<br/>
+Marwan Mohamad Summakieh (285805)<br/>
+Mathias Have Hansen (274392)<br/>
 
-Data warehouse team:
-Anton Anastasov (285038),
-Vaclav Dvorak (285049),
-Zou Yong Nan Klaassen (283873)
+Data warehouse team:<br/>
+Anton Anastasov (285038)<br/>
+Vaclav Dvorak (285049)<br/>
+Zou Yong Nan Klaassen (283873)<br/>
 
-IoT team:
-Toma Zuy Chan (285035),
-Eduard Fischer-Szava (283624)
+IoT team:<br/>
+Toma Zuy Chan (285035)<br/>
+Eduard Fischer-Szava (283624)<br/>
